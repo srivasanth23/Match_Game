@@ -1,0 +1,13 @@
+.image-checking-button {
+  background-color: transparent;
+  border: none;
+}
+
+.image-resizer {
+  height: 130px;
+  width: 130px;
+}
+
+.image-list-container {
+  margin: 10px;
+}
